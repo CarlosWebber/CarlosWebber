@@ -8,7 +8,7 @@
 &nbsp;&nbsp;&nbsp;👨‍💻 &nbsp;Currently looking for a Data Scientist JR role.\
 &nbsp;&nbsp;&nbsp;📊 &nbsp;Love for technological sciences and statistics.\
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate for learning new things and seeking for new challenges.\
-&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently learning FLASK.\ src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"
+&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently learning FLASK.\
 &nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;In the process of making my Data Science Portfolio.
 
 
