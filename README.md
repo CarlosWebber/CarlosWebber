@@ -1,15 +1,17 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Greeting animation">
   <h1><strong>👋 Hello There</strong></h1>
-  <h3>🎃<em> Carlos Webber Data Scientist </em>🎃</h3>
+  <h3>🎃<em> Carlos Webber - Data Scientist </em>🎃</h3>
 </div>
 
-### 🎮 &nbsp;About Me
-&nbsp;&nbsp;&nbsp;👨‍💻 &nbsp;Currently looking for a Data Scientist JR role.\
-&nbsp;&nbsp;&nbsp;📊 &nbsp;Love for technological sciences and statistics.\
-&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate for learning new things and seeking for new challenges.\
-&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently learning FLASK.\
-&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;In the process of making my Data Science Portfolio.
+<h2>🎮 &nbsp;About Me</h2>
+<ul>
+  <li>👨‍💻 &nbsp;Currently looking for a Data Scientist JR role.</li>
+  <li>📊 &nbsp;Love for technological sciences and statistics.</li>
+  <li>💓 &nbsp;Passionate about learning new things and seeking new challenges.</li>
+  <li>✍️ &nbsp;Currently learning FLASK.</li>
+  <li>🛠️ &nbsp;In the process of building my Data Science Portfolio.</li>
+</ul>
 
 
 <hr> <!-- Esto agregará una línea horizontal -->
