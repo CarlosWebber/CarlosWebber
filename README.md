@@ -5,11 +5,10 @@
 </div>
 
 ### 🎮 &nbsp;About Me
-&nbsp;&nbsp;&nbsp;📍 I am established in Veracruz, Mexico.\
 &nbsp;&nbsp;&nbsp;👨‍💻 &nbsp;Currently looking for a Data Scientist JR role.\
 &nbsp;&nbsp;&nbsp;📊 &nbsp;Love for technological sciences and statistics.\
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate for learning new things and seeking for new challenges.\
-&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently learning POWER BI.\
+&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently learning FLASK.\ src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"
 &nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;In the process of making my Data Science Portfolio.
 
 
@@ -33,6 +32,7 @@
 ![R Studio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)&nbsp;
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)&nbsp;
 ![Excel & VBA](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)&nbsp;
+![SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 </details>
 
