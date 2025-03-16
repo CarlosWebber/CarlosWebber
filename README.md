@@ -6,7 +6,7 @@
 
 <h2>🎮 &nbsp;About Me</h2>
 <ul>
-  <li>👨‍💻 &nbsp;Currently looking for a Data Scientist JR role.</li>
+  <li>👨‍💻 &nbsp;Currently looking for a Data Scientist role.</li>
   <li>📊 &nbsp;Love for technological sciences and statistics.</li>
   <li>💓 &nbsp;Passionate about learning new things and seeking new challenges.</li>
   <li>✍️ &nbsp;Currently learning FLASK.</li>
